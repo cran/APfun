@@ -1,0 +1,10 @@
+95a3f0649b47231c973ff467070ec33a *DESCRIPTION
+ca77cd54cd882e0f4a6c069a32c3dee6 *NAMESPACE
+0cb0fe3761e12fcfe85d7f97c151d272 *NEWS.md
+cafc398a46cc05e44ebe4b0d71af4ef3 *R/AProunder.R
+6fee11c3f578b693c9e710fe519ba6c7 *R/APtimer.R
+62c0ef15c2d20506c15f9f37bab43878 *README.md
+2f84154c1ee5b9dfd8646eb3f42aee8e *man/AProunder.Rd
+318dcbcf5bd99e8690255542c7e4f864 *man/APtimer.Rd
+c02b5e97acb300ca0cb0a0954c581d6e *tests/testthat.R
+041d3ca9bcebb1417a7e247b50c9002b *tests/testthat/test_APRounder.R
