@@ -4,15 +4,17 @@
 \alias{APtimer}
 \title{AP Timer}
 \usage{
-APtimer(marker = NULL)
+APtimer(marker = NULL, hush = FALSE)
 }
 \arguments{
-\item{marker}{Optional object of class \code{'POSIXct'}}
+\item{marker}{Optional object of class \code{'POSIXct'}.}
+
+\item{hush}{logical. If set to TRUE, this will silence printing to console.}
 }
 \value{
 If \code{marker=NULL}, then \code{APtimer} returns an object of class \code{'POSIXct'}.
 When this same object is used as an input later on, then \code{APtimer} will print the time elapsed
-since it was evaluated
+since it was evaluated.
 }
 \description{
 Basic timer.
